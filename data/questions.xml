@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<questions>
+  <question secundes="60">
+    <text>Сколько байт в килобайте?</text>
+    <variants>
+      <variant>1000</variant>
+      <variant>2048</variant>
+      <variant right="true">1024</variant>
+      <variant>512</variant>
+    </variants>
+  </question>
+
+  <question secundes="60">
+    <text>В каком году Гагарин полетел в космос?</text>
+    <variants>
+      <variant>1965</variant>
+      <variant>1959</variant>
+      <variant right="true">1961</variant>
+      <variant>1945</variant>
+    </variants>
+  </question>
+
+  <question secundes="60">
+    <text>Сколько дней в высокосном году?</text>
+    <variants>
+      <variant>365</variant>
+      <variant>364</variant>
+      <variant right="true">366</variant>
+      <variant>367</variant>
+    </variants>
+  </question>
+
+  <question secundes="60">
+    <text>В каком году родился Юкихиро Мацумото?</text>
+    <variants>
+      <variant>1971</variant>
+      <variant>1963</variant>
+      <variant right="true">1965</variant>
+      <variant>1959</variant>
+    </variants>
+  </question>
+
+</questions>
